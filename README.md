@@ -1,7 +1,7 @@
 git_dvc_project1
 ==============================
 
-first attempt at dvc and git
+first attempt at dvc and git:
 
 Project Organization
 ------------
